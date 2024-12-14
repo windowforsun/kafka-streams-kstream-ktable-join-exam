@@ -1,0 +1,13 @@
+
+app:
+  window:
+    duration: 10000
+    grace: 0
+  topic:
+    stream:
+      click: click-stream-topic
+      view: view-stream-topic
+    table:
+      click: click-table-topic
+      view: view-table-topic
+    result: result-topic
